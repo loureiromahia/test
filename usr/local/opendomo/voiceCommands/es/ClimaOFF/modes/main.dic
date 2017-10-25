@@ -1,0 +1,4 @@
+apagar clima (LINE Objeto)
+  ClimaOFF "$Objeto$"
+desactivar clima (LINE Objeto)
+  ClimaOFF "$Objeto$"

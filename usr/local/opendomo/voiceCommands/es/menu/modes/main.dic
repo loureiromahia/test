@@ -1,0 +1,113 @@
+menú
+  menu 0 
+[opción] <1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19>
+  menu "$SPEECH$"
+<activar,desactivar> <1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19>
+  menu "$SPEECH$"
+valor (LINE Objeto)
+  menu "$Objeto$"
+salvar <1,2,3,4>
+  menu "$SPEECH$"
+voz de (WORD Objeto)
+  menu "$SPEECH$"
+volver
+  menu 20
+salir
+  menu 21
+dónde estoy
+  menu 22
+red modo <estático,DHCP>
+  menu redmode "$SPEECH$"
+red IP (LINE Objeto)
+  menu redIP "$Objeto$"
+red puerta (LINE Objeto)
+  menu redGW "$Objeto$"
+red máscara (LINE Objeto)
+  menu redmask "$Objeto$"
+red DNS (LINE Objeto)
+  menu redDNS "$Objeto$"
+red salvar
+  menu redsave "$Objeto$"
+interfaz tema <1,2,3,4,5,6,7,8,9 >
+  menu tema "$SPEECH$"
+interfaz piel <1,2,3,4,5,6,7,8,9 >
+  menu piel "$SPEECH$"
+interfaz idioma <1,2,3,4,5,6,7 >
+  menu idioma "$SPEECH$"
+interfaz ayuda
+  menu interfazayuda
+interfaz salvar
+  menu interfazsalvar
+usuario crear (LINE Objeto)
+  menu usuariocrear "$Objeto$"
+usuario borrar (LINE Objeto)
+  menu usuarioborrar "$Objeto$"
+usuario nombre (LINE Objeto)
+  menu usuariomodnombre "$Objeto$"
+usuario correo (LINE Objeto)
+  menu usuariomodcorreo "$Objeto$"
+usuario clave (LINE Objeto)
+  menu usuariomodclave "$Objeto$"
+usuario ejecutar (LINE Objeto)
+  menu usuarioejecutar "$Objeto$"
+usuario ayuda
+  menu usuarioayuda
+control crear (LINE Objeto)
+  menu controlcrear "$Objeto$"
+control borrar (LINE Objeto)
+  menu controlborrar "$Objeto$"
+control placa (LINE Objeto)
+  menu controlplaca "$Objeto$"
+control puerto (LINE Objeto)
+  menu controlpuerto "$Objeto$"
+control refresco (LINE Objeto)
+  menu controlrefresco "$Objeto$"
+control IP (LINE Objeto)
+  menu controlIP "$Objeto$"
+control usuario (LINE Objeto)
+  menu controlusuario "$Objeto$"
+control clave (LINE Objeto)
+  menu controlclave "$Objeto$"
+control ejecutar (LINE Objeto)
+  menu controlejecutar "$Objeto$"
+control ayuda
+  menu controlayuda
+estado crear (LINE Objeto)
+  menu estadocrear "$Objeto$"
+estado borrar (LINE Objeto)
+  menu estadoborrar "$Objeto$"
+estado modificar (LINE Objeto)
+  menu estadomod "$Objeto$"
+estado ejecutar (LINE Objeto)
+  menu estadoejecutar "$Objeto$"
+estado ayuda
+  menu estadoayuda
+estado activar <1,2,3,4,5,6,7,8,9>
+   menu estadoactivar "$SPEECH$"  
+estado desactivar <1,2,3,4,5,6,7,8,9>
+   menu estadodesactivar "$SPEECH$"  
+complemento activar (LINE Objeto)
+  menu pluginact "$Objeto$"
+complemento desactivar (LINE Objeto)
+  menu plugindeact "$Objeto$"
+complemento actualizar
+  menu pluginupd 
+sistema actualizar
+  menu systemupd 
+complemento ayuda
+  menu pluginayuda
+zona crear (LINE Objeto)
+  menu zonacrear "$Objeto$"
+zona borrar (LINE Objeto)
+  menu zonaborrar "$Objeto$"
+zona descripción (LINE Objeto)
+  menu zonadesc "$Objeto$"
+zona coordenadas (LINE Objeto)
+  menu zonacoord "$Objeto$"
+zona ejecutar (LINE Objeto)
+  menu zonaejecutar "$Objeto$"
+zona ayuda
+  menu zonaayuda
+
+
+

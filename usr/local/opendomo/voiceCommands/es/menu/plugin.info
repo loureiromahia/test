@@ -1,0 +1,26 @@
+<#Plugin.info automatically generated
+name = menu
+version = 2.3
+file = menu
+configs = settings.conf
+author = M.Loureiro  
+description = Navigates over web menu of OpenDomo
+actions = Implemented:
+-Main Menu
+-Menu 1: Control Menu: 
+	- Change Status 
+	- Port Setting Menu's(improved):  Change ports : Light, Climate, Music, Video,Sensors, VarLights and VarClimate 
+	- First draft of Config Menu
+	- Implemented about.sh and reboot.sh
+	- Implemented manageConfiguration.sh
+	- Implemented configureVoiceSystem.sh
+        - Implemented "where i am /donde estoy" functionality
+        - Implemented configLocalNetwork.sh
+	- Implemented configureInterface.sh
+        - Implemented manageUsers.sh
+	- Implemented manageControlDevices.sh
+        - Implemented manageSystemStaets.sh
+	- Implemented managePlugins.sh
+        - Implemented manageZones.sh
+
+
